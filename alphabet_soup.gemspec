@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "With this gem, a user can set a custom alphabet and alphabatize words with it"
   spec.description   = ""
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/snlamm/alphabet_soup_gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
