@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/snlamm/alphabet_soup_gem.svg?branch=master)](https://travis-ci.org/snlamm/alphabet_soup_gem)
 
-[![Coverage Status](https://coveralls.io/repos/github/snlamm/alphabet_soup_gem/badge.svg?branch=master)]
+[![Coverage Status](https://coveralls.io/repos/github/snlamm/alphabet_soup_gem/badge.svg?branch=master)
 
 # AlphabetSoup
 
